@@ -1,0 +1,14 @@
+Excel loaded successfully.
+Today's date: 20-06
+Checking: Khushi - 03-11
+Checking: Kashish - 01-11
+Checking: Sneha - 30-06
+Checking: Kumkum - 20-06
+Showing notification:  Birthday Alert  - It's Kumkum's birthday today!
+Saying: It's Kumkum's birthday today!
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\Admin\Documents\birthday_mate\birthday_reminder.py", line 61, in <module>
+      File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
